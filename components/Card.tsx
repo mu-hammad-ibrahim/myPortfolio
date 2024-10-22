@@ -82,7 +82,7 @@ const Card = () => {
               </Link>
             </Button>
             <a
-              href="/Cv.pdf"
+              href="/Muhammad Ibrahim - .NET Developer.pdf"
               download="Muhammad Ibrahim"
               className={buttonVariants({
                 className: "text-accent-foreground",
