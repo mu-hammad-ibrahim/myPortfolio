@@ -20,7 +20,7 @@ const Footer = () => {
         </div>
         <div className="flex flex-col items-center gap-10">
           <div className="flex gap-5">
-            <Link href="https://github.com/Muhammad-Ibrahim-Dev" target="_blank">
+            <Link href="https://github.com/mu-hammad-ibrahim" target="_blank">
               <FaGithub
                 className="text-accent-foreground cursor-pointer"
                 size={28}
@@ -33,7 +33,7 @@ const Footer = () => {
               />
             </Link>
             <Link
-              href="https://www.linkedin.com/in/muhammed-ibrahim99/"
+              href="https://www.linkedin.com/in/mu-hammad-ibrahim/"
               target="_blank">
               <FaLinkedin
                 className="text-accent-foreground cursor-pointer"
