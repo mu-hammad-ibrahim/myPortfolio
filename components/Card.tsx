@@ -39,7 +39,7 @@ const Card = () => {
             </h2>
           </div>
           <div className="flex gap-5">
-            <Link href="https://github.com/Muhammad-Ibrahim-Dev" target="_blank">
+            <Link href="https://github.com/mu-hammad-ibrahim" target="_blank">
               <FaGithub
                 className="text-accent-foreground cursor-pointer"
                 size={25}
@@ -52,7 +52,7 @@ const Card = () => {
               />
             </Link>
             <Link
-              href="https://www.linkedin.com/in/muhammed-ibrahim99/"
+              href="https://www.linkedin.com/in/mu-hammad-ibrahim/"
               target="_blank">
               <FaLinkedin
                 className="text-accent-foreground cursor-pointer"
