@@ -38,7 +38,7 @@ const Header = () => {
         </div>
         <div className="z-10 flex h-24 items-center justify-center">
           <Link
-            href="https://github.com/Muhammad-Ibrahim-Dev"
+            href="https://github.com/mu-hammad-ibrahim"
             target="_blank"
             className={cn(
               "group rounded-full border-2 border-border bg-accent text-base text-accent-foreground transition-all ease-in hover:cursor-pointer hover:bg-accent/50"
